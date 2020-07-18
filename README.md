@@ -8,7 +8,7 @@
 REACJS
 REACT NATIVE
 NODEJS
-Sempre em busca de novos desafios!
+### Sempre em busca de novos desafios!
  
  
 ## About me 
