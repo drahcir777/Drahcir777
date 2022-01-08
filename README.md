@@ -8,6 +8,16 @@
 REACJS
 REACT NATIVE
 NODEJS
+
+Não encontro defeitos. Encontro soluções. Qualquer um sabe queixar-se.
+
+Ao longo dessa minha jornada de experiência, há 3 coisas que me proporcionar uma boa relação para evoluir cada vez mais e que vale a pena compartilhar.
+
+1.) Trato os meus projetos e as pessoas envolvidas neles, como se em algum dia nos encontraremos novamente, por isso me comprometo a dar o meu melhor com bastante carinho e profissionalismo a tudo que participo.
+
+2.) Sou um profissional voltado para a área da tecnologia. Desenvolver é ter super poderes, e com grandes poderes vem grandes responsabilidades. Por isso visto a camisa do time no qual estou participando e levo muito a sério isso!
+
+3) Desde 2018 venho me dedicando em programação, e hoje me sinto a vontade em participar de qualquer projeto onde posso fazer parte do time para somar. Ideias e soluções fazem parte do meu cotidiano e sempre procuro novos desafios.
 ### Sempre em busca de novos desafios!
  
  
